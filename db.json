@@ -1,16 +1,19 @@
 {
-  "posts":[
+  "items": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "checked": true,
+      "item": "Water"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "checked": false,
+      "item": "Bread"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "Pizza"
     }
   ]
 }
